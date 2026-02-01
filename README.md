@@ -12,15 +12,10 @@ This project demonstrates how real-world corporate logistics websites are struct
 ✨ Features
 
 Clean Maersk-inspired UI
-
 Responsive navigation bar with logo
-
 Hero section with call-to-action buttons
-
 Shipment tracking UI (UI only)
-
 Services with images
-
 Digital logistics solutions
 
 Global network & statistics
@@ -68,4 +63,11 @@ Corporate website template
 👨‍💻 Author
 
 Group 11 – BlueWave Logistics
-© 2026 – All Rights Reserved
+<img width="1227" height="899" alt="Screenshot 2026-02-01 at 9 10 44 PM" src="https://github.com/user-attachments/assets/ac95cad6-2a6f-4909-a4a6-07df8893bcb6" />
+<img width="1226" height="902" alt="Screenshot 2026-02-01 at 8 58 25 PM" src="https://github.com/user-attachments/assets/76f11df3-34b2-4c88-a120-8d464cffefa8" />
+<img width="1223" height="904" alt="Screenshot 2026-02-01 at 8 58 37 PM" src="https://github.com/user-attachments/assets/225b1d16-1efe-4e72-9ad9-97c946c3ced5" />
+<img width="1224" height="903" alt="Screenshot 2026-02-01 at 8 58 52 PM" src="https://github.com/user-attachments/assets/b5437e08-bbeb-411b-96b2-83d9e0f31316" />
+<img width="1226" height="900" alt="Screenshot 2026-02-01 at 8 59 09 PM" src="https://github.com/user-attachments/assets/04733b44-15ed-4f3c-8b69-617692f308db" />
+<img width="1222" height="903" alt="Screenshot 2026-02-01 at 8 59 21 PM" src="https://github.com/user-attachments/assets/9d0e642a-5875-4628-8157-f12132391f45" />
+
+
