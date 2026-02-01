@@ -11,35 +11,30 @@ This project demonstrates how real-world corporate logistics websites are struct
 
 ✨ Features
 
-Clean Maersk-inspired UI
+Clean Maersk-inspired UI |
 Responsive navigation bar with logo
-Hero section with call-to-action buttons
+
+Hero section with call-to-action buttons |
 Shipment tracking UI (UI only)
-Services with images
+
+Services with images | 
 Digital logistics solutions
 
-Global network & statistics
-
+Global network & statistics |
 Industry solutions section
 
-Trusted clients logos
-
+Trusted clients logos |
 Sustainability section
 
-Call-to-action strip
-
-Professional footer
-
+Call-to-action strip |
+Professional footer |
 Simple and smooth hover effects
 
 🛠️ Tech Stack
 
-HTML5
-
-CSS3
-
-Google Fonts (Inter)
-
+HTML5 |
+CSS3 |
+Google Fonts (Inter) |
 No JavaScript (UI-focused project)
 
 ▶️ How to Run
