@@ -39,11 +39,8 @@ No JavaScript (UI-focused project)
 
 ▶️ How to Run
 
-Download or clone the repository
+Download and save all iamges and html css files in same folder then click go online 
 
-Open index.html in any web browser
-
-No installation or setup required
 
 🎯 Use Case
 
