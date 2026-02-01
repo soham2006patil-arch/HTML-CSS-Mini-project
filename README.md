@@ -47,16 +47,12 @@ No installation or setup required
 
 🎯 Use Case
 
-College project
-
-Front-end portfolio
-
-UI/UX practice
-
+College project |
+Front-end portfolio |
+UI/UX practice |
 Corporate website template
 
-👨‍💻 Author
-
+👨‍💻 Author : 
 Group 11 – BlueWave Logistics
 <img width="1227" height="899" alt="Screenshot 2026-02-01 at 9 10 44 PM" src="https://github.com/user-attachments/assets/ac95cad6-2a6f-4909-a4a6-07df8893bcb6" />
 <img width="1226" height="902" alt="Screenshot 2026-02-01 at 8 58 25 PM" src="https://github.com/user-attachments/assets/76f11df3-34b2-4c88-a120-8d464cffefa8" />
