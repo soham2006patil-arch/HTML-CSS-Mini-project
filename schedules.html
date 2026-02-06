@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Schedules</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<section class="schedule-page">
+
+<h1>Schedules</h1>
+<p class="sub-text">
+Search our extensive routes to find the schedule which fits your supply chain.
+</p>
+
+<!-- Tabs -->
+<div class="tabs">
+<span class="active">Point-to-Point</span>
+<span>Port Calls</span>
+<span>Vessel Schedules</span>
+</div>
+
+<div class="schedule-container">
+
+<!-- LEFT FORM -->
+<div class="schedule-form">
+
+<label>From (City, Country/Region)</label>
+<input type="text" placeholder="Enter location">
+
+<div class="radio-group">
+<label><input type="radio" name="from" checked> Merchant Haulage (CY)</label>
+<label><input type="radio" name="from"> Carrier Haulage (SD)</label>
+</div>
+
+<label>To (City, Country/Region)</label>
+<input type="text" placeholder="Enter location">
+
+<div class="radio-group">
+<label><input type="radio" name="to" checked> Merchant Haulage (CY)</label>
+<label><input type="radio" name="to"> Carrier Haulage (SD)</label>
+</div>
+
+<hr>
+
+<label>Date</label>
+<select>
+<option>Departing</option>
+<option>Arriving</option>
+</select>
+
+<input type="date">
+
+<label>Container type</label>
+<select>
+<option>40' Dry High</option>
+<option>20' Dry</option>
+<option>Reefer</option>
+</select>
+
+<button class="search-btn">Search Schedule</button>
+
+</div>
+
+<!-- RIGHT IMAGE -->
+<div class="schedule-image">
+<img src="https://images.unsplash.com/photo-1578575437130-527eed3abbec">
+</div>
+
+</div>
+
+</section>
+
+</body>
+</html>
