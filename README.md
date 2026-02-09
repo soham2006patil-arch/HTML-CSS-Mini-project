@@ -66,6 +66,7 @@ Group 11 – BlueWave Logistics
 <img width="1211" height="894" alt="Screenshot 2026-02-09 at 7 26 42 PM" src="https://github.com/user-attachments/assets/fb26c994-b863-4b5d-9cdb-4753bdf3c7bb" />
 <img width="1215" height="863" alt="Screenshot 2026-02-09 at 7 26 52 PM" src="https://github.com/user-attachments/assets/122b81bd-5a13-4202-8e57-133e9b86146a" />
 <img width="1214" height="894" alt="Screenshot 2026-02-09 at 7 27 01 PM" src="https://github.com/user-attachments/assets/e7e23c2b-7aed-42dd-a175-93284b1173c9" />
+<img width="1212" height="893" alt="Screenshot 2026-02-09 at 7 28 35 PM" src="https://github.com/user-attachments/assets/8cc6fd86-4f34-4fa2-9eca-869323b6c819" />
 
 
 
