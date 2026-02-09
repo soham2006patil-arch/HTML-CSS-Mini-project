@@ -1,4 +1,4 @@
-<img width="1217" height="899" alt="Screenshot 2026-02-09 at 8 44 54 PM" src="https://github.com/user-attachments/assets/523dbb1a-86ff-4495-8b1a-8e7a94d7ff57" />🚢 BlueWave Logistics
+🚢 BlueWave Logistics
 
 A clean, modern logistics & shipping company website inspired by enterprise platforms like Maersk.
 Built using HTML5 and CSS3, focusing on professional UI, layout structure, and usability.
@@ -54,8 +54,6 @@ Group 11 – BlueWave Logistics
 
 
 <img width="1217" height="899" alt="Screenshot 2026-02-09 at 8 44 54 PM" src="https://github.com/user-attachments/assets/523dbb1a-86ff-4495-8b1a-8e7a94d7ff57" />
-
-
 <img width="1224" height="903" alt="Screenshot 2026-02-01 at 8 58 52 PM" src="https://github.com/user-attachments/assets/b5437e08-bbeb-411b-96b2-83d9e0f31316" />
 <img width="1226" height="900" alt="Screenshot 2026-02-01 at 8 59 09 PM" src="https://github.com/user-attachments/assets/04733b44-15ed-4f3c-8b69-617692f308db" />
 <img width="1222" height="903" alt="Screenshot 2026-02-01 at 8 59 21 PM" src="https://github.com/user-attachments/assets/9d0e642a-5875-4628-8157-f12132391f45" />
