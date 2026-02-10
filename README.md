@@ -1,3 +1,5 @@
+website: https://soham2006patil-arch.github.io/HTML-CSS-Mini-project/
+
 🚢 BlueWave Logistics
 
 A clean, modern logistics & shipping company website inspired by enterprise platforms like Maersk.
