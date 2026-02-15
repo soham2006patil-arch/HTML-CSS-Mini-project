@@ -52,7 +52,7 @@ UI/UX practice |
 Corporate website template
 
 👨‍💻 Author : 
-Group 11 – BlueWave Logistics
+Group 11 – MAERSK LINE Logistics
 
 
 <img width="1217" height="899" alt="Screenshot 2026-02-09 at 8 44 54 PM" src="https://github.com/user-attachments/assets/523dbb1a-86ff-4495-8b1a-8e7a94d7ff57" />
